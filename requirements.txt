@@ -4,4 +4,4 @@ qrcode==8.2
 psutil==7.2.2
 requests==2.34.2
 gTTS==2.5.4
-phonenumbers==9.0.31
+phonenumbers==8.13.5
